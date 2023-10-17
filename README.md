@@ -7,8 +7,8 @@
 - 👯 I’m looking to collaborate on .net frontend and backend
 - 🤔 I’m looking for help with .net frontend and backend
 - 💬 Ask me about on any topics about trading
-- 📫 How to reach me: [alexanderseredin.ru](alexanderseredin.ru)
+- 📫 How to reach me: [tradeandcode](https://vk.com/tradeandcode)
 - 😄⚡ Fun fact: 
 >I am not a programmer, I am a trader with good programming knowledge.
 
-[My tests accounts in mql5.com](https://www.mql5.com/en/signals/widget/top/6giv)
+
