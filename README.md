@@ -3,9 +3,9 @@
 </div>
 
 - 🔭 I’m currently working on the infrastructure of my own investment fund.
-- 🌱 I’m currently learning .net, blazor
-- 👯 I’m looking to collaborate on .net frontend and backend
-- 🤔 I’m looking for help with .net frontend and backend
+- 🌱 I’m looking for funding my project
+- 👯 I’m looking to collaborate on [mql5](https://www.mql5.com/ru/signals/2086138)
+- 🤔 I’m looking for help with prop-firm
 - 💬 Ask me about on any topics about trading
 - 📫 How to reach me: [VK](https://vk.com/tradeandcode), [YouTube](https://www.youtube.com/@alexanderseredin)
 - 😄⚡ Fun fact: 
